@@ -7,6 +7,7 @@ Sonda de sensor de temperatura DS 18B20, paquete de acero inoxidable, resistente
 ![](images/temp_DS_8B20_4.jpg)  
 ![](images/temp_DS_8B20_5.jpg)  
 
+Sensor de temperatura (DS18B20): Sensor con sonda de temperatura, permite varias sondas (#0, #1, …) y utiliza la conexión 1-wire  
 
 
 
